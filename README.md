@@ -12,8 +12,11 @@ Any of you graphical wizards out there who have some tips are more than welcome 
 DOWNLOAD AND USE; 
 
 To download and use or moidify on your Linux box, you will need to install git if it is not already provided by your distribution.
+
 On Arch or Arch-based systens: sudo pacman -S git
+
 On openSusse: sudo zypper in git
+
 On Debian/Ubuntu/Mint and variants: sudo apt install git.
 
 Then type the following into the same terminal (root powers not needed):
