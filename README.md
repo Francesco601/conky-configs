@@ -22,3 +22,9 @@ On Debian/Ubuntu/Mint and variants: sudo apt install git.
 Then type the following into the same terminal (root powers not needed):
 
  git clone https://github.com/Francesco601/conky-configs/edit/main/ into some subdirectory of your home directory.
+
+See https://conky.sourceforge.net/config_settings.html for configration settings.
+
+And varaibles here: https://conky.sourceforge.net/variables.html
+
+
