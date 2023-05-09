@@ -2,7 +2,7 @@
 
 ![Screenshot](https://github.com/Francesco601/conky-configs/blob/main/francesco.png)
 
-DESCRIPTION:
+## DESCRIPTION:
 
 These are my configuration files for the Linux system monitor program Conky.
 I have described the modifications and syntax updates in comments in the config files.
@@ -11,7 +11,7 @@ Any of you graphical wizards out there who have some tips are more than welcome 
 
 
 
-DOWNLOAD AND USE; 
+## DOWNLOAD AND USE; 
 
 To download and use or moidify on your Linux box, you will need to install git if it is not already provided by your distribution.
 
