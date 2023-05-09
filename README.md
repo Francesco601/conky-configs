@@ -23,7 +23,8 @@ On Debian/Ubuntu/Mint and variants: sudo apt install git.
 
 Then type the following into the same terminal (root powers not needed):
 
- git clone 'Url of this reposiroty'  into some subdirectory of your home directory.
+ 
+ git clone "URL of this repository"  into some subdirectory of your home directory.
 
 See https://conky.sourceforge.net/config_settings.html for configration settings.
 
