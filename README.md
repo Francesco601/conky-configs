@@ -27,11 +27,25 @@ On Debian/Ubuntu/Mint and variants:
 ```bash
 sudo apt install git.
 ```
+You will also need to install `conky` with the same commands that you used for git. 
+
+Create a subdirectory in your home directory named .conky where you can place the config files.
+```bash
+mkdir .conky
+```
+``
 Then type the following into the same terminal or just copy and paste (root powers not needed):
 ```bash  
  git clone "URL of this repository"  into some subdirectory of your home directory.
  ```
-
+Finally, copy conky,config1 and conky2.config2 into the new subdirectory or
+```bash
+ cp conky.config1 conky2.config2 ~/.config
+````
+and
+```
+source conkey-configs/conky-startup.sh
+```
 See <a href="https://conky.sourceforge.net/config_settings.html"> Config settings </a> for configration settings.
 
 And variables here: <a href="https://conky.sourceforge.net/variables.html"> Variables </a>
