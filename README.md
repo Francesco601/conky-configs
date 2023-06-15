@@ -51,6 +51,15 @@ and <a href="https://www.dafont.com/it/chinacat.font"> here </a>
 
 Unzip and put in .fonts directory (must be made if it doesn't exist). 
 
+Last but not least: we can get them to run on startup several ways but the simplest is to create a symlink:
+
+```bash 
+$ cd /etc/profile.d
+$ ln -s ~/.conky/conky-startup.sh startup.sh
+```
+
+
+
 
 See <a href="https://conky.sourceforge.net/config_settings.html"> Config settings </a> for configration settings.
 
