@@ -36,7 +36,7 @@ mkdir .conky
 ``
 Then type the following into the same terminal or just copy and paste (root powers not needed):
 ```bash  
- git clone "URL of this repository"  into some subdirectory of your home directory.
+ git clone https://github.com/Francesco601/conky-configs  into some subdirectory of your home directory.
  ```
 Finally, copy conky,config1 and conky2.config2 into the new subdirectory or
 ```bash
