@@ -46,6 +46,12 @@ and
 ```
 source conkey-configs/conky-startup.sh
 ```
+Those nice fonts that I prefer can be downloaded from <a href="https://www.dafont.com/hobbiton-brush-hand.font"> here </a>
+and <a href="https://www.dafont.com/it/chinacat.font"> here </a> 
+
+Unzip and put in .fonts directory (must be made if it doesn't exist). 
+
+
 See <a href="https://conky.sourceforge.net/config_settings.html"> Config settings </a> for configration settings.
 
 And variables here: <a href="https://conky.sourceforge.net/variables.html"> Variables </a>
